@@ -30,7 +30,7 @@ flex-direction: column;
 align-items: center;
 justify-content:center;
 width: 80%;
-height: 500px;
+height: 600px;
 `
 
 export const InputWrapper = styled.div`
